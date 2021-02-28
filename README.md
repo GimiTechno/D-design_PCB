@@ -1,7 +1,7 @@
-# 【D-design新人教育用基板 REV1.0(非公開:開発用)】
+# 【D-design新人教育用基板 REV1.0(公開:開発用)】
  
-★会社には <font color="Red">README.txt</font> を読ませること!!!
+★開発環境 ...  <font color="Red">README.txt</font> 
 
 ## 【機能(ドライバ等) ... REV1.0】
  
-・USB　…　VCP（仮想COMポート）でprintf（会社名が出る）
+・USB　…　VCP（仮想COMポート）でprintf()で会社名が出る
